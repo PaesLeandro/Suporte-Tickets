@@ -1,7 +1,13 @@
 import {randomUUID} from 'node:crypto';
 
 export function create ({request, response, database}) {
-    const {equipament, description, username} = request.body;
+    const { equipament, description, username } = request.body ?? {};
+
+    if (!equipament || !description || !username) {
+        return response
+            .writeHead(400)
+            .end(JSON.stringify({ message: 'Campos obrigatorios: equipament, description, username.' }));
+    }
 
 
     const ticket = {

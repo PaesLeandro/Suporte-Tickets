@@ -1,1 +1,9 @@
-{"tickets":[{"id":"1d2e7907-16e7-4ea7-9142-4b785b110bd9","equipament":"Computador","description":"Computador não liga.","username":"Leandro Martins Paes","status":"open","created_at":"2026-06-05T23:24:26.278Z","up_dated_at":"2026-06-05T23:24:26.278Z"},{"id":"dc9ca9a2-5be2-4092-8577-fedf438eeaf5","equipament":"Notebook","description":"Nao liga","username":"leandro","status":"open","created_at":"2026-06-05T23:44:47.359Z","up_dated_at":"2026-06-05T23:44:47.359Z"},{"id":"eb5e6b33-abb7-4a70-a6c6-aca71d2380df","equipament":"Teclado","description":"Tecla A não funciona.","username":"Pedro Lucas","status":"open","created_at":"2026-06-05T23:50:05.363Z","up_dated_at":"2026-06-05T23:50:05.363Z"},{"id":"dd0057fe-ef16-4770-b410-84c67d636827","equipament":"Computador","description":"Computador não liga.","username":"Leandro Martins Paes","status":"open","created_at":"2026-06-06T00:17:41.013Z","up_dated_at":"2026-06-06T00:17:41.013Z"},{"id":"b46d8b71-5643-4744-b0a1-c0a97d48da90","equipament":"Teclado","description":"Tecla A não funciona.","username":"Pedro Lucas","status":"open","created_at":"2026-06-06T00:17:45.551Z","up_dated_at":"2026-06-06T00:17:45.551Z"}]}
+{"tickets":[{"id":"1d2e7907-16e7-4ea7-9142-4b785b110bd9","equipament":"Computador","description":"Computador não liga.","username":"Leandro Martins Paes","status":"open","created_at":"2026-06-05T23:24:26.278Z",
+"up_dated_at":"2026-06-05T23:24:26.278Z"},
+
+{"id":"dc9ca9a2-5be2-4092-8577-fedf438eeaf5","equipament":"Notebook","description":"Nao liga","username":"leandro","status":"open","created_at":"2026-06-05T23:44:47.359Z","up_dated_at":"2026-06-05T23:44:47.359Z"},
+
+{"id":"eb5e6b33-abb7-4a70-a6c6-aca71d2380df","equipament":"Teclado",
+"description":"Tecla A não funciona.","username":"Pedro Lucas","status":"open","created_at":"2026-06-05T23:50:05.363Z","up_dated_at":"2026-06-05T23:50:05.363Z"},
+
+{"id":"dd0057fe-ef16-4770-b410-84c67d636827","equipament":"mouse","description":"scroll falhando","username":"Leandro Martins Paes","status":"open","created_at":"2026-06-06T00:17:41.013Z","up_dated_at":"2026-06-12T02:58:43.477Z"}]}
